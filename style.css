@@ -1,0 +1,116 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho {
+background-color: #2C2263;
+color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+} 
+
+.cabecalho-imagem{
+width: 20%;
+}
+
+.cabecalho-lista-item{
+display: inline-block;
+margin: 0 16px;
+font-size: 20px;
+color: white;
+} 
+
+.escola-imagem{
+width: 25%;
+}
+
+.escola{
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-div-conteudo{
+width: 35%;
+}
+.escola-titulo{
+padding: 24px 0;
+} 
+ 
+.estudante-icone{
+width: 24px;
+} 
+
+
+.estudante-titulo1{
+color: yellow;
+line-height: 200px; 
+display: flex;
+justify-content: center;
+align-items: center; 
+font-size: 30px; 
+} 
+
+.estudante-titulo{
+width: 55%;
+text-align: center;
+padding-left: 350px;
+align-items: center; 
+display: inline-block; 
+line-height: 25px;
+} 
+
+.estudante-imagem-robotica{
+ padding: 1px 0px;
+ width: 40%;    
+}
+
+.estudante-imagem-financeira{
+padding-left: 50px;
+width: 40%; 
+} 
+
+.estudante-imagem-empreendedorismo{
+padding-left: 850px;
+width: 40%; 
+} 
+
+.estudante-imagem-programacao{
+padding-left: 50px;
+width: 40%; 
+}
+
+.rodape{
+background-color: black;
+text-align: center;
+}
+
+.rodape-imagem{
+height: 70px;
+} 
+
+.copyright{
+line-height: 200px; 
+display: flex;
+justify-content: center;
+align-items: center; 
+font-size: 10px;
+color: red;
+} 
+
+.copyright-me{
+display: flex;
+justify-content: center;
+} 
+
+.fundo{ 
+    background-image: linear-gradient(#272243,#ADACED);
+}
